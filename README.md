@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jawagar27
 - 👀 I’m interested in programming and scripting
-- 🌱 I’m currently learning advanced C,Java,css,javascript and other programming related technologies. 
-- 💞️ I’m looking to collaborate on any projects that might be useful my career
+- 🌱 I’m currently learning advanced C,Java,css,javascript and other programming related languages. 
+- 💞️ I’m looking forward to collaborate on any projects that might be useful to my career
 - 📫 How to reach me - contact me via email - jawagar999@gmail.com
 
 <!---
